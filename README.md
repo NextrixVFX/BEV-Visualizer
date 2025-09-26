@@ -10,7 +10,7 @@
 - libprotobuf-dev v3.6.1
 - python3.10 (optional)
 - [Lidar Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution)
-- [Extras](https://files.nextrix.xyz/share/g5QqMsTF) (mp4s, models, deps)
+- [Extras](https://files.nextrix.xyz/share/g5QqMsTF) (mp4s, models)
 
 # My Setup
 * I'm running the model on a WSL2 container running Ubuntu 22.04
