@@ -18,7 +18,7 @@
 * My host machine is running Windows11 24H2
 * The requirements I put is based off what I have installed (on wsl2) precisely.
 
-# How to use
+# How to Compile
 1. Follow through with the [original repo](https://github.com/Mandylove1993/CUDA-FastBEV) first but use the modified ```.sh``` files in this repo rather than cuda-fastbev (if you have problems)
 2. Set your proper [Compute Capability](https://developer.nvidia.com/cuda-gpus#compute) at the bottom of ```tool/environment.sh``` at ```ln:62 ; export CUDASM="89"``` (change 89 to ur gpu)
 3. Make sure you put both the ```libraries``` and ```dependencies``` folders (from [Lidar Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution))  inside the BEV-Visualizer folder.
