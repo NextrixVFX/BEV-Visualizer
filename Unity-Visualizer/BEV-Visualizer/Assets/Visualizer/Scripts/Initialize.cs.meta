@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9ac3d8657f987ed4ca72551e3909bda8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selfCarPrefab: {fileID: 4743269194315685880, guid: 55bf0319e9a03d94ba8ee2404bbd2d7c, type: 3}
+  - CarPrefab: {fileID: 5683653755168301951, guid: 2396a34b96c15eb4a84a941bb02121a5, type: 3}
+  - TruckPrefab: {fileID: 2915930164085501784, guid: 304592558e0ec3d49bc3cbb1207a837f, type: 3}
+  - TrailerPrefab: {fileID: 3947418864803599144, guid: 0f6326f115de1e644817a7fd7f7e1912, type: 3}
+  - BusPrefab: {fileID: 2190655962542393600, guid: 3f794c8b00f337345931cd381a8a3905, type: 3}
+  - ConstructionVehiclePrefab: {fileID: 3947418864803599144, guid: 0f6326f115de1e644817a7fd7f7e1912, type: 3}
+  - BicyclePrefab: {fileID: 3947418864803599144, guid: 0f6326f115de1e644817a7fd7f7e1912, type: 3}
+  - MotorcyclePrefab: {fileID: 3947418864803599144, guid: 0f6326f115de1e644817a7fd7f7e1912, type: 3}
+  - PedestrianPrefab: {fileID: 1947330158577954714, guid: 88eb10db5e9ca964f8dd18d3b2d1a806, type: 3}
+  - TrafficConePrefab: {fileID: 2072816804701568294, guid: 08bd3295de959f34dae770bc3cfb9fef, type: 3}
+  - BarrierPrefab: {fileID: 3947418864803599144, guid: 0f6326f115de1e644817a7fd7f7e1912, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
