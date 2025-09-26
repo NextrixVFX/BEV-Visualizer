@@ -28,8 +28,7 @@
    ```
    # $HOME/Bev-Visualizer
    nextrix@john:~/BEV-Visualizer$ ls
-    LICENSE          configs     dependencies    libraries   ptq
-    CMakeLists.txt   README.md   demo  example-data   model   src   tool
+    CMakeLists.txt   README.md    dependencies    example-data    libraries    model   src   tool
 
    # $HOME/code/TensorRT-8.5.1.7
    nextrix@john:~/code$ ls
@@ -57,20 +56,20 @@ nextrix@john:~/BEV-Visualizer/example-data$ ls Videos/
 nextrix@john:~/BEV-Visualizer/model$ ls
   resnet18  resnet18int8  resnet18int8head
 nextrix@john:~/CUDA-FastBEV/model$ ls resnet18int8
-  build  fastbev_post_trt_decode.onnx  fastbev_pre_trt.onnx  fastbev_ptq.pth  result.txt  video_results
+  fastbev_post_trt_decode.onnx  fastbev_pre_trt.onnx  fastbev_ptq.pth  build
 nextrix@john:~/CUDA-FastBEV/model$ ls resnet18int8/build/
   fastbev_post_trt_decode.json  fastbev_post_trt_decode.plan  fastbev_pre_trt.log
   fastbev_post_trt_decode.log   fastbev_pre_trt.json          fastbev_pre_trt.plan
 
 # Libs and Deps
 nextrix@john:~/BEV-Visualizer/libraries$ ls
-  3DSparseConvolution  YUVToRGB  cuOSD  cuPCL  roiconvert  spconv
+  3DSparseConvolution  cuOSD   spconv
 nextrix@john:~/CUDA-FastBEV/dependencies$ ls
-  dlpack  pybind11  stb
+  dlpack  stb
 
 # Tools
 nextrix@john:~/BEV-Visualizer/tool$ ls
-  build_trt_engine.sh  cudasm.sh  draw.py  environment.sh  requirements.txt  run.sh
+  build_trt_engine.sh  environment.sh  run.sh
 ```
 
 # Performance (Laptop 4070) [Resnet18int8 -- fp16]
