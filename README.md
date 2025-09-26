@@ -1,6 +1,7 @@
 # BEV-Visualizer
 - Fast Tesla-AI Style BEV Model + Visualizer. Built with TensorRT and Unity.
 - Note: This uses strictly cameras. No lidar needed; Lidar is used for training, not inference.
+- Also this no where close to being complete atm.
 
 # Requirements
 * Most requirements can be found on the original repo for [CUDA-FastBev](https://github.com/Mandylove1993/CUDA-FastBEV). However, some information is left out.
