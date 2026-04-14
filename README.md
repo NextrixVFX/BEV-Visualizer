@@ -1,4 +1,4 @@
-# BEV-Visualizer
+# Tesla Vision BEV
 - Fast Tesla-AI Style BEV Model + Visualizer. Built with TensorRT and Unity.
 - Note: This uses strictly cameras. No lidar needed; Lidar is used for training, not inference.
 - Also this no where close to being complete atm.
